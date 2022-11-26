@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+body{
+    background-color: black;
+}
+.front-img{
+    max-width: 100%;
+    height: auto;
+    zoom: 1.19;
+    
+}
+.container{
+    padding-left: 20%;
+    padding-right: 20%;
+    color: white;
+    
+}
+.inner-container{
+    background-color: black;
+    position: relative;
+    top: -3.9rem;
+}
+h6{
+    color: #f8a9b5;
+    font-size: 5vw;
+    text-align: center;
+    padding-top: 2rem;
+}
+.text{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 1rem;
+    text-align:center;
+    color: white;
+}
+.assets{
+    color: white;
+    display: flex;
+    
+    justify-content: center;
+    margin-bottom: 3rem;
+    flex-wrap: wrap;
+}
+.asset-item{
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+h5{
+    letter-spacing: 0.2rem;
+    font-size: 1rem;
+    color: rgb(175, 175, 175);
+    margin: 1rem;
+    text-align: center;
+}
+.u-icon-2 {
+    height: 48px;
+    width: 48px;
+    margin: 0 auto;
+}
+.u-icon-1 {
+    height: 48px;
+    width: 48px;
+    margin: 0 auto;
+}
+.u-icon-3 {
+    height: 48px;
+    width: 48px;
+    margin: 0 auto;
+}
+.u-icon-circle {
+    border-radius: 50%;
+}
+.u-icon {
+    display: block;
+    line-height: 0;
+    border-width: 0px;
+}
+span{
+    fill: azure;
+    margin-bottom: 9px;
+    padding: 2px;
+}
+asset-item p{
+    text-align: center;
+    padding: 2px;
+}
